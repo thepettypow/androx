@@ -36,7 +36,7 @@ Ensure the following tools are installed before using Androx:
 ### Build Androx
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Androx.git
+   git clone https://github.com/thepettypow/Androx.git
    cd Androx
    ```
 2. Build the binary:
